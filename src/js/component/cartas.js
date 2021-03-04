@@ -7,7 +7,7 @@ const imageStyle = {
 export function Cartas() {
 	return (
 		<div className="row mb-3">
-			<div className="card-decks col-3">
+			<div className="card-decks col-sm-6 col-lg-3">
 				<img
 					className="card-img-top"
 					src="https://i.pinimg.com/736x/5f/90/c8/5f90c8057779dc12858a3905c6279550.jpg"
@@ -26,7 +26,7 @@ export function Cartas() {
 					</a>
 				</div>
 			</div>
-			<div className="card-decks col-3">
+			<div className="card-decks col-sm-6 col-lg-3">
 				<img
 					className="card-img-top"
 					src="https://i.pinimg.com/736x/5f/90/c8/5f90c8057779dc12858a3905c6279550.jpg"
@@ -45,7 +45,7 @@ export function Cartas() {
 					</a>
 				</div>
 			</div>
-			<div className="card-decks col-3">
+			<div className="card-decks col-sm-6 col-lg-3">
 				<img
 					className="card-img-top"
 					src="https://i.pinimg.com/736x/5f/90/c8/5f90c8057779dc12858a3905c6279550.jpg"
@@ -64,7 +64,7 @@ export function Cartas() {
 					</a>
 				</div>
 			</div>
-			<div className="card-decks col-3">
+			<div className="card-decks col-sm-6 col-lg-3">
 				<img
 					className="card-img-top"
 					src="https://i.pinimg.com/736x/5f/90/c8/5f90c8057779dc12858a3905c6279550.jpg"
